@@ -151,6 +151,8 @@ https://www.saojoaodocaiua.pr.gov.br
 
 3. Abra o arquivo index.html em qualquer navegador moderno.
 
+4. TAMBÉM ESTA ACESSÍVEL ATRAVÉS DO ENDEREÇO: [(https://bjoao10-rgb.github.io/AGRINHO-2026/)]
+
 ---
 
 # 👨‍💻 Autor
